@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './MosesBonilla.png'; /*I could not find nor take a suitable image of myself, so I used this image instead*/
 import './App.css';
 
 function App() {
